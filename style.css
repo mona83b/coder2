@@ -1,0 +1,29 @@
+/* 
+
+
+Theme Name: rroo 
+template: Avada
+Theme Description: rroo
+Theme URI: http://avada.theme-fusion.com/
+Author URI: http://themeforest.net/user/ThemeFusion
+Version: 1
+License: Themeforest Split Licence
+License URI: -
+Text Domain: Avada
+
+
+*/
+
+
+@font-face {
+    src: url('fonts/AzonixRegular 400.otf');
+    font-family: Azonix_0e !important;
+}
+
+
+.sst h1 {
+    font-family: Azonix_0e !important;
+}
+
+
+
